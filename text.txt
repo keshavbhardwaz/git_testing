@@ -1,2 +1,5 @@
+Below line was added by feature_1 branch
+feature_1
+Below line was added by feature_2 branch which create a conflict
 feature_4
 feature_2
